@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca4b8948-5c1f-4075-a459-1a5d34624253" name="Changes" comment="&quot;Funcionalidad restar&quot;">
-      <change beforePath="$PROJECT_DIR$/src/Calc.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calc.kt" afterDir="false" />
+    <list default="true" id="ca4b8948-5c1f-4075-a459-1a5d34624253" name="Changes" comment="&quot;Conflicto suma resuelto&quot;">
+      <change beforePath="$PROJECT_DIR$/calc-kotlin-dam" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +27,21 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "elvirarm"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;elvirarm&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/elvirarm/calc-kotlin-dam.git",
-    "accountId": "a3f0441d-63f2-4f1f-984c-c5b07ad7e7ab"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/elvirarm/calc-kotlin-dam.git&quot;,
+    &quot;accountId&quot;: &quot;a3f0441d-63f2-4f1f-984c-c5b07ad7e7ab&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2uGoLOg2oH0LCQOSH9EgUfl5lo2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -51,7 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741886496238</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;Conflicto suma resuelto&quot;">
+      <option name="closed" value="true" />
+      <created>1741888644532</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741888644532</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +140,7 @@
     <MESSAGE value="&quot;Funcionalidad dividir sin error&quot;" />
     <MESSAGE value="&quot;Funcionalidad sumar&quot;" />
     <MESSAGE value="&quot;Funcionalidad restar&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Funcionalidad restar&quot;" />
+    <MESSAGE value="&quot;Conflicto suma resuelto&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Conflicto suma resuelto&quot;" />
   </component>
 </project>
